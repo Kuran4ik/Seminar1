@@ -1,0 +1,15 @@
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\bin\Debug\net6.0\Exx2.exe
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\bin\Debug\net6.0\Exx2.deps.json
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\bin\Debug\net6.0\Exx2.runtimeconfig.json
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\bin\Debug\net6.0\Exx2.dll
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\bin\Debug\net6.0\Exx2.pdb
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\obj\Debug\net6.0\Exx2.csproj.AssemblyReference.cache
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\obj\Debug\net6.0\Exx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\obj\Debug\net6.0\Exx2.AssemblyInfoInputs.cache
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\obj\Debug\net6.0\Exx2.AssemblyInfo.cs
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\obj\Debug\net6.0\Exx2.csproj.CoreCompileInputs.cache
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\obj\Debug\net6.0\Exx2.dll
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\obj\Debug\net6.0\refint\Exx2.dll
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\obj\Debug\net6.0\Exx2.pdb
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\obj\Debug\net6.0\Exx2.genruntimeconfig.cache
+C:\Users\Евгения\Downloads\РАЗРАБОТЧИК\PROG\S1\Exx2\obj\Debug\net6.0\ref\Exx2.dll
